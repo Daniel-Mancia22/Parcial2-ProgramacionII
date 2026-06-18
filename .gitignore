@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+
+# Build directories
+bin/
+obj/
+
+# Code::Blocks auto-generated files (user-specific)
+*.depend
+*.layout
+
+# Temp / backup files
+*.swp
+*.bak
+*~
+
+# Windows system files
+Thumbs.db
+Desktop.ini
